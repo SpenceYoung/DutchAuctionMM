@@ -1,16 +1,16 @@
-#DAMM
-##Dutch Auction Money Machine
+DAMM
+Dutch Auction Money Machine
 
-##By Spencer Young
-###April 21st 2018
-####Decentralized Markets Hackathon
+By Spencer Young
+April 21st 2018
+Decentralized Markets Hackathon
 
-#####A Reverse Dutch Auction purchase signaler
+A Reverse Dutch Auction purchase signaler
 
 http://www.yourdictionary.com/reverse-dutch-auction
 
 
-##Summary
+Summary
 
 Built using the EOS dutch auction as example, can be adapted to work for any decentralized dutch auction with very little implementation/ability.
 
@@ -26,7 +26,9 @@ Inputs needed would be private keys, eth wallet balance, maximum risk, and inten
 
 
 
-##Setting up
+
+
+Setting up
 
 Required libraries are in requirements.txt.
 
