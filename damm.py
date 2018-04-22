@@ -75,11 +75,11 @@ def main():
 	print("\nWelcome to Dutch Auction money machine")
 	print("\nThe current coinmarketcap EOS price is: ")
 	marketprice = getMarketPrice()
-	print(marketprice)
+	print("$" + str(marketprice))
 	print("\nThe current EOS contract price is: ")
 	infoList = getEOScontractInfo()
 	contractPrice = infoList[0]
-	print(contractPrice)
+	print(str(contractPrice))
 	timeRemaining = infoList[1]
 	timeRemaining = timeRemaining[32:49]
 	
