@@ -1,7 +1,7 @@
 certifi==2024.7.4
 chardet==3.0.4
 coinmarketcap==4.2.1
-idna==2.6
+idna==3.7
 requests==2.32.4
 requests-cache==0.4.13
 selenium==3.11.0
